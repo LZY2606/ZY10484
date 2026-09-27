@@ -1,0 +1,2 @@
+# Fails until Intl.DurationFormat available in Node.js release
+intl402/Temporal/Duration/prototype/toLocaleString/returns-same-results-as-DurationFormat.js
